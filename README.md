@@ -7,7 +7,7 @@ Sou aluno do curso de Desenvolvedor Front End do programa Ford Enter parceria en
 
 Tenho formação em Engengharia de Produção finalizado no 2° semestre de 2017, experiencia de 09 anos no setor automobilistico onde eu era Analista de Desenvolvimento de Produto, e tenho mais 02 qualificações de aprendizagem industrial pelo Senai, são elas: eletricista de manutenção e ferramenteiro de corta dobra e repuxo.
 
-[![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucabapt&show_icons=true&theme=cobalt)](https://github.com/lucabap/github-readme-stats)
+[![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbapt&show_icons=true&theme=cobalt)](https://github.com/lucabap/github-readme-stats)
 
 
 
