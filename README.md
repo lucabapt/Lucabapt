@@ -9,7 +9,7 @@ Tenho formação em Engengharia de Produção finalizado no 2° semestre de 2017
 
 [![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucabapt&show_icons=true&theme=cobalt)](https://github.com/lucabap/github-readme-stats)
 
-## Linguagens em desenvolvimento
+## Ferramentas em desenvolvimento
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
