@@ -1,6 +1,6 @@
 # Seja Bem Vindo ao meu github 👋
 
-Me chamo Lucas, tenho 32 anos de idade.
+Me chamo Lucas, tenho 32 anos de idade 😃.
 
 Sou aluno do curso de Desenvolvedor Front End do programa Ford Enter parceria entre a Ford Motor Company Brasil, Ford found e Senai - SP, estou no 1° semestre do técnico de refrigeração e climatizão no Senai Oscar Rodrigues Alves.
 
