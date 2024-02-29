@@ -2,7 +2,9 @@
 
 Me chamo Lucas, tenho 32 anos de idade 😃.
 
-Sou aluno do curso de Desenvolvedor Front End do programa Ford Enter parceria entre a Ford Motor Company Brasil, Ford found e Senai - SP, estou no 1° semestre do técnico de refrigeração e climatizão no Senai Oscar Rodrigues Alves.
+
+Sou formado em Desenvolvedor Front End,estou no 1° semestre no Técnico de Redes e Infraestrurtura e no 2° semestre do técnico de refrigeração e climatizão no Senai Oscar Rodrigues Alves.
+
 
 
 Tenho formação em Engengharia de Produção finalizado no 2° semestre de 2017, experiencia de 09 anos no setor automobilistico onde eu era Analista de Desenvolvimento de Produto, e tenho mais 02 qualificações de aprendizagem industrial pelo Senai, são elas: eletricista de manutenção e ferramenteiro de corta dobra e repuxo.
