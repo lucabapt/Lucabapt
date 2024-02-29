@@ -3,7 +3,7 @@
 Me chamo Lucas, tenho 32 anos de idade 😃.
 
 
-Sou formado em Desenvolvedor Front End,estou no 1° semestre no Técnico de Redes e Infraestrurtura e no 2° semestre do técnico de refrigeração e climatizão no Senai Oscar Rodrigues Alves.
+Sou formado em Desenvolvedor Front End,estou no 1° semestre no Técnico de Redes e Infraestrutura e no 2° semestre do técnico de refrigeração e climatizão no Senai Oscar Rodrigues Alves.
 
 
 
