@@ -1,9 +1,9 @@
 # Seja Bem Vindo ao meu github 👋
 
-Me chamo Lucas, tenho 32 anos de idade 😃.
+Me chamo Lucas, tenho 33 anos de idade 😃.
 
 
-Sou formado em Desenvolvedor Front End,estou no 1° semestre no Técnico de Redes e Infraestrutura e no 2° semestre do técnico de refrigeração e climatizão no Senai Oscar Rodrigues Alves.
+Sou formado em Desenvolvedor Front End,estou no 2° semestre no Técnico de Redes e Infraestrutura e no 3° semestre do técnico de refrigeração e climatizão no Senai Oscar Rodrigues Alves e também no 1 semestre de ciencia de dados pela Univesp
 
 
 
