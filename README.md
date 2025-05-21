@@ -1,3 +1,14 @@
+<h1 align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Lucas%20Baptista😊&fontColor=000000&fontSize=65&fontAlign=55&fontAlignY=50&animation=fadeIn&descAlign=33">
+</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=DataOps+%7C+SecOps+%7C+OT+%7C+IndustrialOps" alt="Typing SVG" />
+  </a>
+</p>
+
+
 # Seja Bem Vindo ao meu github 👋
 
 Me chamo Lucas, tenho 34 anos de idade 😃.
