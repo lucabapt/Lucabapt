@@ -1,6 +1,9 @@
+https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Lucas%20Baptista😊&fontColor=%204169e1&fontSize=65&fontAlign=50&fontAlignY=50&animation=fadeIn&descAlign=33
+
+
 # Seja Bem Vindo ao meu github 👋
 
-Me chamo Lucas, tenho 33 anos de idade 😃.
+Me chamo Lucas, tenho 34 anos de idade 😃.
 
 
 Sou formado em Desenvolvedor Front End,estou no 3° semestre no Técnico de Redes e Infraestrutura e no 4° semestre do técnico de refrigeração e climatizão no Senai Oscar Rodrigues Alves e também no 2 semestre de ciencia de dados pela Univesp
