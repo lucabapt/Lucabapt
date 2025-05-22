@@ -53,9 +53,11 @@ Tenho formação em Engengharia de Produção finalizado no 2° semestre de 2017
 
 
 ## Links
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-santos-baptista-9749a9211/)
-          
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-santos-baptista-9749a9211/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 
           
