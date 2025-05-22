@@ -33,7 +33,13 @@ Tenho formação em Engengharia de Produção finalizado no 2° semestre de 2017
 
           
           
-          
+## Certificações 
+
+| Certificação | Nome |
+| --- | --- |
+|![CCNA ITN](https://img.shields.io/badge/CISCO%20_Introduction_To_Networks-t?style=plastic&logo=cisco&color=black) | Cisco NetAcademy Introduction to Network
+|![AWS_CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=plastic&logo=amazonwebservices&logoColor=yellow&labelColor=black&color=white) | AWS Cloud Foundations |
+|![SENAI_FO](https://img.shields.io/badge/SENAI_-Instala%C3%A7%C3%A3o%20e%20manuten%C3%A7%C3%A3o%20de%20fibra%20%C3%B3tica-t?style=plastic&logo=Instala%C3%A7%C3%A3o%20e%20manuten%C3%A7%C3%A3o%20de%20fibra%20%C3%B3tica&color=white) | Senai Manutenção e Instalação de Fibra Otica |
           
           
     
